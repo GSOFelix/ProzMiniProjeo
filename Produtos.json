@@ -1,0 +1,93 @@
+[
+    {
+        "Id": 1,
+        "Nome": "BOLA NIKE",
+        "Quantidade": 5.0,
+        "Preco": 59.9,
+        "Categoria": "ESPORTES"
+    },
+    {
+        "Id": 2,
+        "Nome": "CAMISA POLA M",
+        "Quantidade": 7.0,
+        "Preco": 49.9,
+        "Categoria": "VESTUARIO MASCULINO"
+    },
+    {
+        "Id": 3,
+        "Nome": "BERMUDA NIKE 38",
+        "Quantidade": 12.0,
+        "Preco": 79.9,
+        "Categoria": "VESTUARIO MASCULINO"
+    },
+    {
+        "Id": 4,
+        "Nome": "MOUSE RED DRAGON PRETO",
+        "Quantidade": 6.0,
+        "Preco": 69.9,
+        "Categoria": "INFORMATICA"
+    },
+    {
+        "Id": 5,
+        "Nome": "MONITOR GAMER AOC 25PL",
+        "Quantidade": 12.0,
+        "Preco": 599.0,
+        "Categoria": "INFORMATICA"
+    },
+    {
+        "Id": 6,
+        "Nome": "CANETA BIC",
+        "Quantidade": 30.0,
+        "Preco": 1.5,
+        "Categoria": "PAPELARIA"
+    },
+    {
+        "Id": 7,
+        "Nome": "SMARTPHONE REDMI 12",
+        "Quantidade": 6.0,
+        "Preco": 2000.0,
+        "Categoria": "CELULARES"
+    },
+    {
+        "Id": 8,
+        "Nome": "CAIXA JBL 200W",
+        "Quantidade": 3.0,
+        "Preco": 980.0,
+        "Categoria": "ELETRONICOS"
+    },
+    {
+        "Id": 9,
+        "Nome": "ALEXA POD",
+        "Quantidade": 6.0,
+        "Preco": 450.0,
+        "Categoria": "ELETRONICOS"
+    },
+    {
+        "Id": 10,
+        "Nome": "TECLADO MECANICO REDDRAGON 60%",
+        "Quantidade": 3.0,
+        "Preco": 129.9,
+        "Categoria": "INFORMATICA"
+    },
+    {
+        "Id": 11,
+        "Nome": "MICRO-ONDAS PHILCO 30L BR",
+        "Quantidade": 3.0,
+        "Preco": 799.0,
+        "Categoria": "ELETRODOMESTICO"
+    },
+    {
+        "Id": 12,
+        "Nome": "ASPIRADOR DE PO MULTILASER 110V",
+        "Quantidade": 7.0,
+        "Preco": 150.0,
+        "Categoria": "ELETRODOMESTICO"
+    },
+    {
+        "Id": 13,
+        "Nome": "NOTEBOOK ACERR I5-1235U 8GB RAM 256GB SSD ",
+        "Quantidade": 8.0,
+        "Preco": 2680.0,
+        "Categoria": "INFORMATICA"
+    }
+]
